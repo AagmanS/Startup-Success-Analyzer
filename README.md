@@ -11,6 +11,8 @@ This project explores the key factors influencing startup success using statisti
 
 ![Working](ss1.png)
 ![Working](ss2.png)
+![Working](ss3.png)
+
 
 ## Dataset
 The dataset contains information about startups including:
