@@ -6,7 +6,7 @@ This project analyzes startup success using statistical techniques in R.
 ## Objective
 To identify key factors influencing startup growth and check if sectors behave differently.
 
-## 🛠️ Techniques Used
+## Techniques Used
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Multivariate Normality Test (Mardia)
